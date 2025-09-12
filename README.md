@@ -10,15 +10,15 @@ This is it, just like a toy with a chassis made of wood, this little robot is ab
 
 For this project I used several active electronical components to work together. 
 
-  - [ ] 1 x Aruduino UNO board
-  - [ ] 1 x MPU-6050 sensor: 1 x Gyroscope & 1 x accelerometer
-  - [ ] 2 x DC Motor
-  - [ ] 1 x LN-298n motor driver
-  - [ ] 2 x Wheels (yes, only two...   （⊙ｏ⊙）)
-  - [ ] 1 x Switch
-  - [ ] 1 x Battery holder
-  - [ ] 2 x Batteries
-  - [ ] Jumpers
+  - [ x ] 1 x Aruduino UNO board
+  - [ x ] 1 x MPU-6050 sensor: 1 x Gyroscope & 1 x accelerometer
+  - [ x ] 2 x DC Motor
+  - [ x ] 1 x LN-298n motor driver
+  - [ x ] 2 x Wheels (yes, only two...   （⊙ｏ⊙）)
+  - [ x ] 1 x Switch
+  - [ x ] 1 x Battery holder
+  - [ x ] 2 x Batteries
+  - [ x ] Jumpers
 
 ## Electrical scheme
 
