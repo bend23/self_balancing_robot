@@ -2,7 +2,7 @@
 
 Hello there! Let me introduce my little self balancing robot:
 
-![Ref Image](./imagini/img1_robot.jpg)
+![Ref Image](./images/img1_robot.jpg)
 
 This is it, just like a toy with a chassis made of wood, this little robot is able to balance on two wheels. But let's explore the biggest question HOW?
 
@@ -24,17 +24,17 @@ For this project I used several active electronical components to work together.
 
 With all these materials the following electrical scheme was realized:
 
-![Ref Image](./Scheme_Electrice/Scema-Facuta.jpg)
+![Ref Image](./electrical_scheme/schematic_diagram.jpg)
 
 The main challenge in this project was positioning the electrical components in such a way that gave the robot the best possible balance. Since there are all other factors by the environment which could influence the balance (as in the case of _stochastic systems_), the placement of these elements was crucial during the assembly process.
 
 The symmetry of the chassis was also important to engineer. The more symmetryical the chassis is, the more the balance will be certain. I focused on this symmetry during the projection process.
 
-![Ref Image](./imagini/assembling_process.jpg)
+![Ref Image](./images/assembling_process.jpg)
 
 The system as a whole concept can be looked as a _inverted pendulum_ as shown in the next figure:
 
-![Ref Image](./imagini/imverted_pendulum.png)
+![Ref Image](./images/inverted_pendulum.png)
 
 ## Theory of Operation
 
